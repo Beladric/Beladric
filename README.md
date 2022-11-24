@@ -56,9 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
 </div>
 ---
-<div align="center">
-  <h3>
-    :chart_with_upwards_trend: Github Statistics
-  </h3>
-
-</div>
+<h3 align="center">
+  :chart_with_upwards_trend: Github Statistics
+</h3>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
