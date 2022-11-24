@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGlVT3rkRxrTg/profile-displayphoto-shrink_200_200/0/1635607781062?e=1674691200&v=beta&t=hBSuzfwh_9wcI_gteSA4pVFvbCAO8JtFnCqff4HhJvk"/>
+  <img src="./Profile.png"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/kilian-goetz/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
