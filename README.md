@@ -7,8 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Beladric&style=flat-square&color=blue" alt="Prodile views"/>
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Kilian GOËTZ
   </h1>
 </div>
 
@@ -16,6 +15,9 @@
   <h3>👨‍💻 About Me :</h3>
   <p>
   I'm French student engineer in <a href="https://www.utbm.fr/">UTBM</a> by apprenticeship and I'm DevOps Engineer at <a href="https://www.stellantis.com/fr">Stellantis</a>. 
+  </p>
+  <p>
+    Found further information on my <a href="https://kilian-goetz.engineer/">portfolio</a>
   </p>
   
   <h3 id="-languages-">💻 Languages :</h3>
