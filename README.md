@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="./Profile.png"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/kilian-goetz/">
