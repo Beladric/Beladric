@@ -19,8 +19,6 @@
   <p>
     Found further information on my <a href="https://kilian-goetz.com/">portfolio</a>
   </p>
-  
-  <h3 id="-languages-">💻 Languages :</h3>
 
 ---
 
